@@ -169,7 +169,6 @@ p {
   .title-image {
     position: static;
     transform: rotateZ(0deg);
-    width: 80%;
     padding-top: 50px;
   }
 
